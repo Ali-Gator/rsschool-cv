@@ -1,15 +1,16 @@
 # Oleg Gordienov
 
-
 | Photo                                          | Contact info                                                                                                                                                                                                                                                                                                                                                        |
 |------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <img src="./1.jpg" width="200" height="200" /> | Telegram: [@oleg_ily](https://t.me/oleg_ily) <br> Skype: [@oleg_ily](https://join.skype.com/invite/ibnfXBKy5BqP) <br> Phone: [+79052463325](tel:+79052463325) <br> E-mail: [ogordienov@yandex.ru](mailto:ogordienov@yandex.ru) <br> GitHub: [Ali-Gator](https://github.com/Ali-Gator "пупкп") <br> Codewars: [Ali-Gator](https://www.codewars.com/users/Ali-Gator)  |
 
 ## About me
 
-I fall in love with the front-end when, as a customer, I encountered difficulties in understanding business tasks by performers and their formal approach to development. I like to create clean code and see the result.
+I fall in love with the front-end when, as a customer, I encountered difficulties in understanding business tasks by
+performers and their formal approach to development. I like to create clean code and see the result.
 
-I follow the news from the world of Frontend, listen to podcasts, read articles and educational literature. Participated in the final of the Digital Hackathon 2019 in Kazan.
+I follow the news from the world of Frontend, listen to podcasts, read articles and educational literature. Participated
+in the final of the Digital Hackathon 2019 in Kazan.
 
 I love to travel, visited 15 countries.
 
@@ -26,6 +27,7 @@ I love to travel, visited 15 countries.
 * Editors: VSCode, WebStorm
 
 ## Code sample
+
 ```
 function listSquared(m, n) {
   let result = [];
@@ -48,6 +50,7 @@ function listSquared(m, n) {
   return result;
 }
 ```
+
 [Codewars: "Integers: Recreation One", 5 kyu](https://www.codewars.com/kata/reviews/55aa0d71c1eba8a65a000132/groups/621d1cfed1c8c8000157b1c6)
 
 ## Experience
@@ -70,5 +73,6 @@ function listSquared(m, n) {
 | 2019 | HTML, CSS              |HtmlAcademy|
 
 ## Languages
+
 * Russian: native
 * English: B1 (Intermediate) by EPAM training system
