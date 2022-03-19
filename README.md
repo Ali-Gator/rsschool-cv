@@ -1,1 +1,1 @@
-https://Ali-Gator.github.io/rsschool-cv/cv
+https://Ali-Gator.github.io/rsschool-cv/
